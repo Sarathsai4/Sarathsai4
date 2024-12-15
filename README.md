@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Sarathsai!  
-### 🚀 Data Enthusiast | Business Analytics Learner | Project Lead  
+ ![Analytics Banner](https://github.com/Sarathsai4/My-Space/blob/main/banner.png?raw=true)
 
-![Analytics Banner]([file:///C:/Users/sarat/Downloads/untitled.svg](https://github.com/Sarathsai4/My-Space/blob/main/banner.png?raw=true))  
+# 👋 Hi, I'm Sarathsai!  
+### 🚀 Data Enthusiast | Business Analytics Learner | Project Lead 
 
 ## 🔍 About Me  
 I enjoy working with data to uncover insights and solve business problems.
