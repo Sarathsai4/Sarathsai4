@@ -1,4 +1,4 @@
-![Analytics Banner](https://github.com/Sarathsai4/My-Space/blob/main/banner.png?raw=true)
+
 
 # 👋 Hi, I'm Sarath Sai Grandhe  
 ### 🎯 Business Analytics Professional | Forecasting Strategist | ETL & Automation Expert  
