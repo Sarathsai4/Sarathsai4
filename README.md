@@ -47,9 +47,9 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 - Delivered 36-month forecasts using advanced time series modeling.  
 - Applied diagnostics (ACF/PACF, Ljung–Box) to refine model performance, achieving 20.7% error reduction.
 
-### 📊 [Customer Segmentation Analytics](https://github.com/Sarathsai4/customer-segmentation-analytics) | *SQL, KMeans, Tableau*  
-- Clustered 10K+ customer records into behavioral segments.  
-- Built Tableau dashboards to visualize segments, resulting in 40% uplift in targeted marketing engagement.
+### 📊 [Customer Segmentation AI - ML](https://github.com/Sarathsai4/Customer-Segmentation-AI-ML)) | AI, Streamlit, Python , Jupyter 
+- AI-Powered Segmentation App: Built a Streamlit web app integrating RFM feature engineering, K-Means clustering, and Random Forest classification to segment and predict customer personas in real-time.
+- Business Strategy Integration: Enabled GTM simulations and marketing insights through SHAP-based feature explainability, interactive dashboards, and real-time customer lookup for retail and eCommerce use cases. 
 
 ### 🕵️‍♂️ [LAPD Crime Dashboard](https://github.com/Sarathsai4/la-crime-dashboard) | *Power BI, Python, DAX*  
 - Created real-time visuals to monitor 185K+ crime records.  
