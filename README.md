@@ -39,7 +39,7 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 
 ## 📂 Featured Projects  
 
-### 📦 [Inventory Optimization App](https://github.com/Sarathsai4/inventory-forecast-app) | *Streamlit, ARIMA, Prophet, Python*  
+### 📦 [Inventory Optimization App](https://github.com/Sarathsai4/KADANT-Model) | *Streamlit, ARIMA, Prophet, Python*  
 - Built a login-protected inventory forecasting app with automated ETL and model selection.  
 - Reduced inventory cost by 15% with outlier-adjusted demand forecasting and dynamic safety stock logic.
 
