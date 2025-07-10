@@ -55,7 +55,7 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 - Created real-time visuals to monitor 185K+ crime records.  
 - Integrated demographic and time-based insights to support localized law enforcement strategies.
 
-### 🍮 [Jell-O Fusion GTM Strategy](https://github.com/Sarathsai4/jello-gtm-strategy) | *Market Research, Segmentation, Financial Modeling*  
+### 🍮 [Jell-O Fusion GTM Strategy](https://github.com/Sarathsai4/Jello-Fusion---Marketing-Strategy/tree/main) | *Market Research, Segmentation, Financial Modeling*  
 - Led GTM strategy for Jell-O's CBD-infused product line by applying SWOT, 4Ps, VALS, and market-product grids.  
 - Segmented Gen Z consumers and aligned packaging, pricing, and messaging to wellness and brand differentiation trends.  
 - Delivered strategic recommendations backed by positioning statements and forecasted ROI for national launch.
