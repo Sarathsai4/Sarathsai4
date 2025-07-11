@@ -39,7 +39,7 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 
 ## 📂 Featured Projects  
 
-### 📦 [Inventory Optimization App](https://github.com/Sarathsai4/KADANT-Model) | *Streamlit, ARIMA, Prophet, Python*  
+### 📦 [Inventory Optimization App](https://github.com/Sarathsai4/KADANT-Model) | *Streamlit, ARIMA, Prophet, Python, AI*  
 - Built a login-protected inventory forecasting app with automated ETL and model selection.  
 - Reduced inventory cost by 15% with outlier-adjusted demand forecasting and dynamic safety stock logic.
 
@@ -47,7 +47,7 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 - Delivered 36-month forecasts using advanced time series modeling.  
 - Applied diagnostics (ACF/PACF, Ljung–Box) to refine model performance, achieving 20.7% error reduction.
 
-### 📊 [Customer Segmentation AI - ML](https://github.com/Sarathsai4/Customer-Segmentation-AI-ML) | AI, Streamlit, Python , Jupyter 
+### 📊 [Customer Segmentation AI - ML](https://github.com/Sarathsai4/Customer-Segmentation-AI-ML) | AI, Streamlit, Python , Jupyter , Llm
 - AI-Powered Segmentation App: Built a Streamlit web app integrating RFM feature engineering, K-Means clustering, and Random Forest classification to segment and predict customer personas in real-time.
 - Business Strategy Integration: Enabled GTM simulations and marketing insights through SHAP-based feature explainability, interactive dashboards, and real-time customer lookup for retail and eCommerce use cases. 
 
