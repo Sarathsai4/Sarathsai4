@@ -65,7 +65,7 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 ## 🏅 Certifications  
 - 📈 Google Professional Data Analytics  
 - ☁️ AWS Certified Cloud Practitioner  
-- 📊 Advanced Excel & Power BI
+- 📊 Advanced Excel
 
 ---
 
