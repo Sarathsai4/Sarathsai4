@@ -70,7 +70,7 @@ I'm a data-driven problem solver passionate about transforming messy datasets in
 ---
 
 ## 🎓 Education  
-**University of Cincinnati** — M.S. in Business Analytics (May 2025)  
+**University of Cincinnati** — M.S. in Business Analytics (Dec 2025)  
 **Bapatla Engineering College** — B.Tech in Civil Engineering (2018)  
 
 ---
