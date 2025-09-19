@@ -111,8 +111,11 @@ Currently pursuing my **M.S. in Business Analytics** at the **University of Cinc
 ---
 
 ## 🏅 Certifications
+## 🏅 Certifications
 ![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Data Analytics](https://img.shields.io/badge/Google%20Professional%20Data%20Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)
+
 
 ---
 
