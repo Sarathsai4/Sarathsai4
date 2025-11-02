@@ -6,9 +6,15 @@
        style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.25);" />
 </p>
 
-<!-- Intro -->
-<h1 align="center"> I'm Sarath Sai Sujith Srinivas Grandhe</h1>
-<h3 align="center">A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and AI-powered insights.</h3>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Hi!%20I'm%20Sarath%20Sai%20Sujith%20Srinivas%20Grandhe-bb84f4?style=for-the-badge&logo=github&logoColor=white&labelColor=ede4ff&color=b580f0&borderRadius=50" alt="Sarath Sai Sujith Srinivas Grandhe" />
+</h1>
+<h3 align="center">
+  A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and AI-powered insights.
+</h3>
+
+
+
 
 <!-- Right-Aligned Animation -->
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/main/Images/Business%20Analysis.gif">
