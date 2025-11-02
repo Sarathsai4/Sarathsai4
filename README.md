@@ -1,137 +1,39 @@
-# 👋 Hi, I'm **Sarath Sai Grandhe**
-### 🎯 Business Analytics Professional | Data Engineering & Automation Expert | Forecasting Strategist  
+<h1 align="center">Hi 👋, I'm Sarath Sai Sujith Srinivas Grandhe</h1>
+<h3 align="center">A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and AI-powered insights.</h3>
 
-<div style="height:6px;background:linear-gradient(to right,#00C9FF,#92FE9D);margin:20px 0;"></div>
-
-## 🔍 About Me
-I’m a data-driven problem solver specializing in **real-time analytics, scalable ETL, forecasting, and AI-powered automation**.  
-Currently pursuing my **M.S. in Business Analytics** at the **University of Cincinnati**, I build data products that turn raw, messy data into actionable insights and business value.
-
-**Impact Highlights**
-- 🚀 Built **real-time e‑commerce fraud detection** (150K+ events/sec) → chargeback losses **‑18%**, false positives **‑40%**.
-- 📊 Delivered **hybrid forecasting models** → error reduction **20–35%** across demand/spend/surveys.
-- 🛠 Automated **compliance document processing** (NLP + OCR + Airflow) → **‑70%** manual review time.
-- 🏆 **Amazon Peak Performance Award** (Top 2% employees, 2022 & 2023).
-
----
-
-## ⚙️ Technical Toolbox
-
-### 💻 Programming & Libraries  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-### ☁️ Cloud & Data Engineering  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlecloud)
-![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-0A9EDC?style=for-the-badge&logo=databricks)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka)
-![Flink](https://img.shields.io/badge/-Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform)
-![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-0B1336?style=for-the-badge)
-![DataHub](https://img.shields.io/badge/-DataHub-5B6CFF?style=for-the-badge)
-![OpenLineage](https://img.shields.io/badge/-OpenLineage-0B5FFF?style=for-the-badge)
-
-### 🗃 Databases & Modeling  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-
-### 📊 Visualization & BI  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker)
-
----
-
-## 📂 Featured Projects
-
-### ⚡ Real-Time E‑Commerce Fraud Detection Pipeline
-*Kafka • Flink • Spark Streaming • Snowflake • Airflow • dbt • Tableau*  
-- Built real-time fraud detection & personalization (150K+ events/sec).  
-- **‑18%** chargeback losses, **‑40%** false positives; alert latency **< 1 min**.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sarathsai4/Images/main/Business%20Analysis.gif" alt="Business Analysis Animation" width="400">
+</p>
 
 
-### 🗄 Advanced Data Modeling & ETL Optimization
-*Snowflake • PostgreSQL • MongoDB • Cassandra • dbt • Airflow • Great Expectations*  
-- OLTP (3NF) + OLAP (Star) for 15+ entities; reporting latency **24h → <5 min**.  
-- **3.5×** faster queries via indexing, partitioning, schema refactoring.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathsai4&label=Profile%20views&color=0e75b6&style=flat" alt="sarathsai4" /> </p>
+
+- 🔭 I’m currently working on [Fraud Detection Application](https://github.com/Sarathsai4/Fraud-Detection-Ai-Analyst)
+
+- 🌱 I’m currently learning **Snowflake SnowPro Core • dbt • Apache Airflow • Data Orchestration and Governance**
+
+- 👯 I’m looking to collaborate on **Building ETL pipelines, data automation, and AI-powered analytics dashboards**
+
+- 🤝 I’m looking for help with **Deploying real-time data pipelines (Kafka, Flink, Snowflake) and MLOps automation**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sarathsai4](https://github.com/Sarathsai4)
+
+- 💬 Ask me about **ETL & ELT pipelines · Data Modeling (Star Schema, Data Lakehouse) · Real-time Data Streaming (Kafka, Flink) · Cloud Data Warehousing (AWS, Snowflake, BigQuery) · Workflow Orchestration (Airflow, dbt) · Data Quality & Governance (Great Expectations, DataHub) · ML & NLP Integration (FinBERT, Transformers) · BI & Dashboards (Tableau, Power BI)**
+
+- 📫 How to reach me **sarathsai.grandhe@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PokoeKC-pwKcYOR_rdzKl7V3BKa6ClH5/view?usp=sharing](https://drive.google.com/file/d/1PokoeKC-pwKcYOR_rdzKl7V3BKa6ClH5/view?usp=sharing)
+
+- ⚡ Fun fact **I treat data like coffee — filtered, clean, and ready to energize insights.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sujithgrandhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sujithgrandhe" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-### 🔄 Unified Real-Time Data Transformation Platform
-*PostgreSQL CDC • Debezium • Kafka • ClickHouse • Snowflake • Airflow • dbt • spaCy • Hightouch*  
-- **1M+ events/day** with **<2s** latency; decision lag **‑95%**.  
-- NLP/OCR enrichment → sentiment coverage **+80%**; 99%+ data tests pass.  
 
-
-### 📈 Hybrid Forecasting for Survey Trends
-*BigQuery ML • ARIMA • Prophet • NeuralProphet • Vertex AI • Tableau*  
-- **+35%** forecast accuracy with exogenous features & tuning; near real-time KPIs.  
-
-
----
-
-## 🔎 More Projects (Public)
-- 📦 **Inventory Optimization App** — Streamlit, ARIMA/Prophet, Python, AI  
-  → Login-protected forecasting, dynamic safety stock (cost **‑15%**).  
-  🔗 https://github.com/Sarathsai4/KADANT-Model
-
-- 🏗 **Construction Spend Forecasting** — R, Prophet, ARIMA  
-  → 36‑month forecasts; diagnostics (ACF/PACF, Ljung–Box), **‑20.7%** error.  
-  🔗 https://github.com/Sarathsai4/Construction-Spending-Forecasting/tree/main
-
-- 🤖 **Customer Segmentation AI‑ML** — Streamlit, Python, RFM, K‑Means, RF, SHAP  
-  → Real‑time personas, GTM simulations, explainability.  
-  🔗 https://github.com/Sarathsai4/Customer-Segmentation-AI-ML
-
-- 🕵️‍♂️ **LAPD Crime Dashboard** — Power BI, Python, DAX  
-  → Real‑time visuals for 185K+ records; demographic & temporal insights.  
-  🔗 https://github.com/Sarathsai4/la-crime-dashboard
-
-- 🍮 **Jell‑O Fusion GTM Strategy** — Market Research, Segmentation, Financials  
-  → Gen Z CBD‑infused product strategy; ROI‑backed recommendations.  
-  🔗 https://github.com/Sarathsai4/Jello-Fusion---Marketing-Strategy/tree/main
-
----
-
-## 🏅 Certifications
-![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Data Analytics](https://img.shields.io/badge/Google%20Professional%20Data%20Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)
-
-
----
-
-## 🎓 Education
-**University of Cincinnati** — M.S. in Business Analytics *(Dec 2025)*  
-**Bapatla Engineering College** — B.Tech in Civil Engineering *(2018)*
-
----
-
-## 📫 Connect With Me
-[![Gmail](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarathsai41195@gmail.com)
-[![Outlook](https://img.shields.io/badge/-UC%20Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:grandhss@mail.uc.edu)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujithgrandhe)
-[![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Sarathsai4)
-
----
-
-<div style="padding:14px;border-radius:12px;background:linear-gradient(to right,#ffe259,#ffa751);color:black;font-weight:bold;">
-💡 Fun Fact: I once saved $180K/year by forecasting construction spend. Data doesn’t lie — it just builds smarter futures.
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathsai4&show_icons=true&locale=en" alt="sarathsai4" /></p>
