@@ -1,6 +1,13 @@
+<!-- Profile Header Banner -->
+<p align="center">
+  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/github-header-banner%20(1).png" 
+       alt="Sarath Sai Sujith Srinivas Grandhe | Data Engineer & Analytics Enthusiast" 
+       width="1000"
+       style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.3);" />
+</p>
 
 <!-- Intro -->
-<h1 align="center">Hi 👋, I'm Sarath Sai Sujith Srinivas Grandhe</h1>
+<h1 align="center"> I'm Sarath Sai Sujith Srinivas Grandhe</h1>
 <h3 align="center">A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and AI-powered insights.</h3>
 
 <!-- Right-Aligned Animation -->
