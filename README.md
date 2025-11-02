@@ -1,9 +1,9 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/github-header-banner%20(1).png" 
+  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/github-header-banner%20(2).png" 
        alt="Sarath Sai Sujith Srinivas Grandhe | Data Engineer & Analytics Enthusiast" 
        width="1000"
-       style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.3);" />
+       style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.25);" />
 </p>
 
 <!-- Intro -->
