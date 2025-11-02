@@ -6,11 +6,20 @@
        style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.25);" />
 </p>
 
+
+
+<!-- Name badge (light violet, rounded pill) -->
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Hi!%20I'm%20Sarath%20Sai%20Sujith%20Srinivas%20Grandhe-bb84f4?style=for-the-badge&logo=github&logoColor=white&labelColor=ede4ff&color=b580f0&borderRadius=50" alt="Sarath Sai Sujith Srinivas Grandhe" />
+  <img
+    src="https://img.shields.io/badge/-Hi!%20I'm%20Sarath%20Sai%20Sujith%20Srinivas%20Grandhe-bd9cff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=efe6ff&color=bd9cff"
+    alt="Hi! I'm Sarath Sai Sujith Srinivas Grandhe"
+  />
 </h1>
+
+<!-- Subtitle (kept as clean text) -->
 <h3 align="center">
-  A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and AI-powered insights.
+  A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and
+  AI-powered insights.
 </h3>
 
 
