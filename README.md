@@ -49,8 +49,17 @@
 </div>
 
 
-### 🌐 Connect with Me
-<p align="left">
+<h3 align="center">
+  <img
+    src="https://img.shields.io/badge/🌐-%20Connect%20with%20Me-8ecaff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=dceeff&color=8ecaff"
+    alt="Connect with Me"
+  />
+</h3>
+
+
+
+
+<p align="center">
   <a href="https://linkedin.com/in/sujithgrandhe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
@@ -58,7 +67,17 @@
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<h3 align="center">
+  <img
+    src="https://img.shields.io/badge/🧰-%20Languages%20and%20Tools-ffb3c6?style=for-the-badge&logo=toolbox&logoColor=ffffff&labelColor=ffe6ec&color=ffb3c6"
+    alt="Languages and Tools"
+  />
+</h3>
+
+
+
+
+
 <p align="left">
 <a href="https://www.snowflake.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/main/Images/Snowflake_Inc.-Logo.wine.svg" 
@@ -70,7 +89,14 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">
+  <img
+    src="https://img.shields.io/badge/-%20GitHub%20Stats-ffd580?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=fff2d4&color=ffd580"
+    alt="GitHub Stats"
+  />
+</h3>
+
+
 
 <div align="center">
 
