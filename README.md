@@ -42,7 +42,7 @@
 - 🤝 I’m looking for help with **Deploying real-time data pipelines (Kafka, Flink, Snowflake) and MLOps automation**  
 - 👨‍💻 All of my projects are available at [https://github.com/Sarathsai4](https://github.com/Sarathsai4)  
 - 💬 Ask me about **ETL & ELT pipelines · Data Modeling (Star Schema, Data Lakehouse) · Real-time Data Streaming (Kafka, Flink) · Cloud Data Warehousing (AWS, Snowflake, BigQuery) · Workflow Orchestration (Airflow, dbt) · Data Quality & Governance (Great Expectations, DataHub) · ML & NLP Integration (FinBERT, Transformers) · BI & Dashboards (Tableau, Power BI)**  
-- 📫 How to reach me **sarathsai.grandhe@gmail.com**  
+- 📫 How to reach me **sujith.grandhe@gmail.com**  
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1PokoeKC-pwKcYOR_rdzKl7V3BKa6ClH5/view?usp=sharing)  
 - ⚡ Fun fact **I treat data like coffee — filtered, clean, and ready to energize insights.**  
 
