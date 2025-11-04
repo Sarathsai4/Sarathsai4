@@ -107,6 +107,23 @@
   <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/tableau-svgrepo-com.svg" alt="tableau" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/Power_BI_(4).png" alt="powerbi" width="40" height="40"/></a>
   <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/looker-studio-logo-brandlogos.net_z01lyr28m.svg" alt="lookerstudio" width="40" height="40"/></a>
+  <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/glue/" target="_blank"><img src="https://logo.svgcdn.com/logos/aws-glue.svg" alt="aws_glue" width="40" height="40"/></a>
+  <a href="https://www.databricks.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/></a>
+  <a href="https://flink.apache.org/" target="_blank"><img src="https://flink.apache.org/img/logo/svg/color_black.svg" alt="apache_flink" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/></a>
+  <a href="https://www.getdbt.com/" target="_blank"><img src="https://logo.svgcdn.com/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://greatexpectations.io/" target="_blank"><img src="https://images.ctfassets.net/ycwst8v1r2x5/1E8joF6yPfJwQr0XeEgAjx/37de76b6aa3e67affa9e23a4c815b54a/GE-Preview.png" alt="great_expectations" width="40" height="40"/></a>
+  <a href="https://datahubproject.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/datahub/datahub-icon.svg" alt="datahub" width="40" height="40"/></a>
+  <a href="https://openlineage.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/73205353?s=200&v=4" alt="openlineage" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
+  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"><img src="https://www.svgrepo.com/show/374159/vba.svg" alt="vba" width="40" height="40"/></a>
 </p>
 
 </p>
