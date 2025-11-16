@@ -43,7 +43,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Sarathsai4](https://github.com/Sarathsai4)  
 - 💬 Ask me about **ETL & ELT pipelines · Data Modeling (Star Schema, Data Lakehouse) · Real-time Data Streaming (Kafka, Flink) · Cloud Data Warehousing (AWS, Snowflake, BigQuery) · Workflow Orchestration (Airflow, dbt) · Data Quality & Governance (Great Expectations, DataHub) · ML & NLP Integration (FinBERT, Transformers) · BI & Dashboards (Tableau, Power BI)**  
 - 📫 How to reach me **sujith.grandhe@gmail.com**  
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1dYsRej6iZ1qbovcNVQkcH6QMDPCadPKf/view?usp=sharing) 
 - ⚡ Fun fact **I treat data like coffee — filtered, clean, and ready to energize insights.**  
 
 </div>
