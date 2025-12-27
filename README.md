@@ -143,21 +143,7 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=sarathsai4&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## GitHub Stats (Dynamic)
-
-> These cards are generated using **github-readme-stats** (SVG-based GitHub profile cards).
-> If a card fails to load, it’s usually due to temporary rate limits or downtime on the public instance.
-> For maximum reliability, deploy your own instance and replace the domain with your Vercel URL.
-
-### Basic Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarathsai4&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathsai4&layout=compact&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathsai4&layout=compact&langs_count=6&theme=radical&v=1)
 
 ### Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sarathsai4&theme=radical)
