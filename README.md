@@ -37,7 +37,7 @@
 <div align="justify">
 
 - 🔭 I recently worked on [Fraud Detection Application](https://github.com/Sarathsai4/Fraud-Detection-Ai-Analyst)  
-- 🌱 I’m currently learning **Snowflake SnowPro Core • dbt • Apache Airflow • Data Orchestration and Governance**  
+- 🌱 I’m currently learning **Snowflake SnowPro Core • Data Orchestration and Governance**  
 - 👯 I’m looking to collaborate on **Building ETL pipelines, data automation, and AI-powered analytics dashboards**  
 - 🤝 I’m looking for help with **Deploying real-time data pipelines (Kafka, Flink, Snowflake) and MLOps automation**  
 - 👨‍💻 All of my projects are available at [https://github.com/Sarathsai4](https://github.com/Sarathsai4)  
