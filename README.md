@@ -141,20 +141,32 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathsai4&hide=html,css,javascript&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages"/>
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarathsai4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=sarathsai4&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
+## GitHub Stats
 
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=sarathsai4&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+## GitHub Stats (Dynamic)
+
+> These cards are generated using **github-readme-stats** (SVG-based GitHub profile cards).
+> If a card fails to load, it’s usually due to temporary rate limits or downtime on the public instance.
+> For maximum reliability, deploy your own instance and replace the domain with your Vercel URL.
+
+### Basic Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarathsai4&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathsai4&layout=compact&langs_count=8&theme=radical)
+
+### Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sarathsai4&theme=radical)
+
+
+
+
+
+
+
 
 
