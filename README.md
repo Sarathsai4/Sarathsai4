@@ -137,13 +137,8 @@
   />
 </h3>
 
-
-
 <div align="center">
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathsai4&layout=compact&langs_count=6&theme=radical&v=1)
 
 ### Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sarathsai4&theme=radical)
