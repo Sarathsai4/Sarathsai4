@@ -79,9 +79,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" alt="3D neon coder" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150" alt="3D coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/216655831-44a4884f-b964-46ab-bc31-2e0e161a2c1c.gif" width="150" alt="3D coding" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="3D analytics" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="150" alt="3D analytics" />
 </p>
 
 <!-- 🌠 Neon violet animated divider -->
