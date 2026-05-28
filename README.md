@@ -1,12 +1,10 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/github-header-banner%20(2).png" 
-       alt="Sarath Sai Sujith Srinivas Grandhe | Data Engineer & Analytics Enthusiast" 
+  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/github-header-banner%20(2).png"
+       alt="Sarath Sai Sujith Srinivas Grandhe | Data Engineer · Senior Data Analyst · AI/LLM Data Engineering"
        width="1000"
        style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.25);" />
 </p>
-
-
 
 <!-- Name badge (light violet, rounded pill) -->
 <h1 align="center">
@@ -16,37 +14,33 @@
   />
 </h1>
 
-<!-- Subtitle (kept as clean text) -->
+<!-- Subtitle -->
 <h3 align="center">
-  A data engineer and analytics enthusiast passionate about building scalable data pipelines, cloud solutions, and
-  AI-powered insights.
+  Senior Data Engineer · Senior Data Analyst · AI/LLM Data Engineering & Analytics<br/>
+  Building scalable pipelines, RAG-ready data products, and CX-driven analytics that turn data into decisions.
 </h3>
-
-
-
 
 <!-- Right-Aligned Animation -->
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/main/Images/Business%20Analysis.gif">
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sarathsai4&label=Profile%20views&color=0e75b6&style=flat" alt="sarathsai4" />
+  <img src="https://komarev.com/ghpvc/?username=sarathsai4&label=Profile%20views&color=bd9cff&style=flat" alt="sarathsai4" />
 </p>
 
-<!-- About Section -->
+<!-- About Section (merged from both resumes) -->
 <div align="justify">
 
-- 🔭 I recently worked on [Fraud Detection Application](https://github.com/Sarathsai4/Fraud-Detection-Ai-Analyst)  
-- 🌱 I’m currently learning **Snowflake SnowPro Core • Data Orchestration and Governance**  
-- 👯 I’m looking to collaborate on **Building ETL pipelines, data automation, and AI-powered analytics dashboards**  
-- 🤝 I’m looking for help with **Deploying real-time data pipelines (Kafka, Flink, Snowflake) and MLOps automation**  
-- 👨‍💻 All of my projects are available at [https://github.com/Sarathsai4](https://github.com/Sarathsai4)  
-- 💬 Ask me about **ETL & ELT pipelines · Data Modeling (Star Schema, Data Lakehouse) · Real-time Data Streaming (Kafka, Flink) · Cloud Data Warehousing (AWS, Snowflake, BigQuery) · Workflow Orchestration (Airflow, dbt) · Data Quality & Governance (Great Expectations, DataHub) · ML & NLP Integration (FinBERT, Transformers) · BI & Dashboards (Tableau, Power BI)**  
-- 📫 How to reach me **sarathssgrandhe@gmail.com**  
-- ⚡ Fun fact **I treat data like coffee — filtered, clean, and ready to energize insights.**  
+- 🔭 I recently shipped [Fraud Detection AI Analyst](https://github.com/Sarathsai4/Fraud-Detection-Ai-Analyst), [Customer Segmentation (AI/ML)](https://github.com/Sarathsai4/Customer-Segmentation-AI-ML), and the [KADANT Inventory Optimization Model](https://github.com/Sarathsai4/KADANT-Model)
+- 🧠 **5+ years** building scalable data pipelines, analytics-ready data models, and AI-powered insights across operational, traffic, behavioral, and customer-experience datasets
+- 🌱 Currently leveling up on **Snowflake SnowPro Core · Data Orchestration & Governance · LLMOps (RAG, Vector DBs, LLM Observability)**
+- 👯 Open to collaborations on **ETL/ELT pipelines, BigQuery & GCP data products, MLOps automation, and AI-powered analytics dashboards**
+- 💼 Cross-functional partner to **Product · Marketing · Customer Support · Engineering · Finance · Governance** teams
+- 💬 Ask me about **ETL/ELT · BigQuery/GCP · Dimensional Modeling (Star Schema, Lakehouse) · Streaming (Kafka, Flink, Spark Structured Streaming) · Airflow + dbt · CX/VoC & Churn Analytics · A/B + Causal Impact · RAG + Vector DBs (Pinecone, pgvector, Chroma) · Tableau · Power BI · Looker**
+- 📫 Reach me at **sarathss.g727@gmail.com**
+- ⚡ Fun fact **I treat data like coffee — filtered, clean, and ready to energize insights.**
 
 </div>
-
 
 <h3 align="center">
   <img
@@ -54,9 +48,6 @@
     alt="Connect with Me"
   />
 </h3>
-
-
-
 
 <p align="center">
   <a href="https://linkedin.com/in/sujithgrandhe" target="blank">
@@ -66,67 +57,249 @@
 
 ---
 
-<!-- Languages and Tools Section -->
+<!-- ================================================================= -->
+<!-- 🎬 LANGUAGES & TOOLS — CINEMATIC 3D ANIMATED SECTION              -->
+<!-- All movement, 3D and cinematic visuals live ONLY in this section. -->
+<!-- ================================================================= -->
+
+<!-- 🎞️ Cinematic neon wave header GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" alt="cinematic neon violet wave" />
+</p>
+
+<!-- ⌨️ Glowing animated typing header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2600&pause=600&color=BD9CFF&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%9A%80+Tech+Stack+%E2%80%A2+Languages+%26+Tools;Data+Engineering+%E2%80%A2+BigQuery+%E2%80%A2+GCP+%E2%80%A2+AWS;ETL+%2F+ELT+%E2%80%A2+Airflow+%E2%80%A2+dbt+%E2%80%A2+Spark+%E2%80%A2+Kafka;AI+%2F+LLM+%E2%80%A2+RAG+%E2%80%A2+Vector+DBs+%E2%80%A2+LangChain;CX+%2F+VoC+%E2%80%A2+Churn+%E2%80%A2+A%2FB+%26+Causal+Analytics;Tableau+%E2%80%A2+Power+BI+%E2%80%A2+Looker+%E2%80%A2+Snowflake+%E2%80%A2+Databricks" alt="Languages and Tools" />
+  </a>
+</p>
+
+<!-- 🌌 3D animated cinematic centerpiece -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120" alt="3D dev cube" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="160" alt="3D data flow" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="160" alt="3D neon coder" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216122003-49247491-cb7b-44a3-a40c-3ed75a86e8ce.png" width="120" alt="3D rocket" />
+</p>
+
+<!-- 🌠 Neon violet animated divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon violet divider" />
+</p>
+
+<!-- 🚀 MOVING TECH STACK CAROUSEL -->
+<p align="center">
+  <a href="https://github.com/Sarathsai4">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9A%80+Moving+Tech+Stack&align=center&titleAlign=center&fontFamily=Fira+Code&lineCount=3&theme=violet&line1=python%2Cpython%2C7c3aed%3Bmysql%2CSQL%2Cbd9cff%3Bapacheairflow%2CAirflow%2C7c3aed%3Bgooglecloud%2CGCP%2Cbd9cff%3Bgooglebigquery%2CBigQuery%2C7c3aed%3Bamazonaws%2CAWS%2Cbd9cff%3Bsnowflake%2CSnowflake%2C7c3aed%3Bdatabricks%2CDatabricks%2Cbd9cff&line2=apachekafka%2CKafka%2C7c3aed%3Bapachespark%2CSpark%2Cbd9cff%3Bdbt%2Cdbt%2C7c3aed%3Bpandas%2CPandas%2Cbd9cff%3Bnumpy%2CNumPy%2C7c3aed%3Bscikitlearn%2Cscikit-learn%2Cbd9cff%3Bpytorch%2CPyTorch%2C7c3aed%3Btensorflow%2CTensorFlow%2Cbd9cff&line3=huggingface%2CHuggingFace%2C7c3aed%3Blangchain%2CLangChain%2Cbd9cff%3Bopenai%2COpenAI%2C7c3aed%3Bpostgresql%2Cpgvector%2Cbd9cff%3Btableau%2CTableau%2C7c3aed%3Bpowerbi%2CPower+BI%2Cbd9cff%3Blooker%2CLooker%2C7c3aed%3Bdocker%2CDocker%2Cbd9cff" alt="moving tech stack carousel" />
+  </a>
+</p>
+
+<!-- 💻 Languages -->
+<h4 align="center">💻 Languages & Querying</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,typescript,nodejs,bash,scala&perline=10&theme=dark" alt="languages" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced-bd9cff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/PySpark-Production-bd9cff?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/CTEs%20%7C%20Window%20Fns%20%7C%20Query%20Tuning-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- ☁️ Cloud & Data Warehousing -->
+<h4 align="center">☁️ Cloud & Data Warehousing</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure&perline=10&theme=dark" alt="cloud" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="46" height="46"/>
+  &nbsp;
+  <img src="https://logo.svgcdn.com/logos/aws-glue.svg" alt="aws_glue" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="46" height="46"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-Optimization-bd9cff?style=for-the-badge&logo=googlebigquery&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Redshift-bd9cff?style=for-the-badge&logo=amazonredshift&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/S3%20%7C%20Glue%20%7C%20Athena%20%7C%20EMR%20%7C%20Lambda-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Lakehouse%20%7C%20Delta%20Lake-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 🔧 Data Engineering -->
+<h4 align="center">🔧 Data Engineering · ETL/ELT · Streaming</h4>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="46" height="46"/>
+  &nbsp;
+  <img src="https://flink.apache.org/img/logo/svg/color_black.svg" alt="flink" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="46" height="46"/>
+  &nbsp;
+  <img src="https://logo.svgcdn.com/logos/dbt-icon.svg" alt="dbt" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="46" height="46"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Star%20Schema%20%7C%20Data%20Marts%20%7C%20Lakehouse-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Incremental%20Loads%20%7C%20SCD%20%7C%20Partitioning-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Kafka%20Streams%20%7C%20Spark%20Structured%20Streaming-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 🤖 AI / LLM Engineering -->
+<h4 align="center">🤖 AI / LLM Engineering · RAG · Vector DBs</h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80" alt="ai 3d" />
+  &nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="46" height="46"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi&perline=10&theme=dark" alt="ai" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-bd9cff?style=for-the-badge&logo=langchain&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/LlamaIndex-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-bd9cff?style=for-the-badge&logo=openai&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-bd9cff?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Pinecone-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/pgvector-bd9cff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Chroma-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Weaviate-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Embeddings%20%7C%20Semantic%20Search-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/LLM%20Observability-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Responsible%20AI-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 📈 ML / NLP -->
+<h4 align="center">📈 ML · NLP · Statistical Modeling</h4>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="46" height="46"/>
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="46" height="46"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Regression%20%7C%20Classification-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/K--Means%20%7C%20Hierarchical%20Clustering-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Topic%20Modeling%20%7C%20Text%20Mining-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering%20%7C%20ML--Ready%20Datasets-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Pandas%20%7C%20NumPy-bd9cff?style=for-the-badge&logo=pandas&logoColor=white&labelColor=2D1B69" />
+</p>
+
+<!-- 👥 Product · CX · VoC -->
+<h4 align="center">👥 Product · Customer · CX / VoC Analytics</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Customer%20Experience%20(CX)-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Voice%20of%20Customer%20(VoC)-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/NPS%20%7C%20CSAT%20%7C%20CES-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Churn%20%7C%20Retention%20%7C%20Lifecycle-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Customer%20Journey%20%7C%20Segmentation-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Support%20Ticket%20%7C%20Chat%20%7C%20Call%20Analytics-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Marketing%20%7C%20Campaign%20Analytics-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 🧪 Experimentation -->
+<h4 align="center">🧪 Experimentation · Causal · Statistical Analysis</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/A%2FB%20%7C%20Multivariate%20Testing-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Causal%20Impact%20%7C%20Pre%2FPost-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Cohort%20%7C%20Control%20Group-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing%20%7C%20Root%20Cause-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Predictive%20%26%20Diagnostic%20Analytics-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 📊 BI & Visualization -->
+<h4 align="center">📊 BI & Visualization</h4>
+<p align="center">
+  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/tableau-svgrepo-com.svg" alt="tableau" width="46" height="46"/>
+  &nbsp;
+  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/Power_BI_(4).png" alt="powerbi" width="46" height="46"/>
+  &nbsp;
+  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/looker-studio-logo-brandlogos.net_z01lyr28m.svg" alt="lookerstudio" width="46" height="46"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-bd9cff?style=for-the-badge&logo=tableau&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Power%20BI-bd9cff?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Looker-bd9cff?style=for-the-badge&logo=looker&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-bd9cff?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Executive%20Dashboards%20%7C%20Storytelling-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 🗄️ Databases -->
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10&theme=dark" alt="db" />
+</p>
+
+<!-- 🛠️ DevOps & Tooling -->
+<h4 align="center">🛠️ DevOps & Tooling</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,linux,selenium,graphql,spring&perline=10&theme=dark" alt="devops" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/FastAPI%20%7C%20RESTful%20APIs-bd9cff?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Jupyter%20%7C%20Pandas%20%7C%20Matplotlib-bd9cff?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Playwright%20%7C%20Selenium-bd9cff?style=for-the-badge&logo=playwright&logoColor=white&labelColor=2D1B69" />
+</p>
+
+<!-- 🧯 Data Quality -->
+<h4 align="center">🧯 Data Quality · Governance · Observability</h4>
+<p align="center">
+  <img src="https://images.ctfassets.net/ycwst8v1r2x5/1E8joF6yPfJwQr0XeEgAjx/37de76b6aa3e67affa9e23a4c815b54a/GE-Preview.png" alt="great_expectations" width="46" height="46"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/datahub/datahub-icon.svg" alt="datahub" width="46" height="46"/>
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/73205353?s=200&v=4" alt="openlineage" width="46" height="46"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Great%20Expectations-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Data%20Contracts%20%7C%20SLA%20Monitoring-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Schema%20Drift%20%7C%20Freshness%20Checks-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Data%20Dictionaries%20%7C%20Lineage-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/Alation%20%7C%20Catalog%20Tools-bd9cff?style=for-the-badge&labelColor=2D1B69" />
+</p>
+
+<!-- 🌠 Neon violet divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon violet divider" />
+</p>
+
+<!-- 🐍 Snake contribution animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!-- 🌊 Cinematic wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" alt="cinematic wave footer" />
+</p>
+
+---
+
+<!-- 🏅 Certifications (static) -->
 <h3 align="center">
   <img
-    src="https://img.shields.io/badge/🧰-%20Languages%20and%20Tools-ffb3c6?style=for-the-badge&logo=toolbox&logoColor=ffffff&labelColor=ffe6ec&color=ffb3c6"
-    alt="Languages and Tools"
+    src="https://img.shields.io/badge/🏅-%20Certifications-bd9cff?style=for-the-badge&logo=verified&logoColor=ffffff&labelColor=efe6ff&color=bd9cff"
+    alt="Certifications"
   />
 </h3>
 
 <p align="center">
-  <!-- Existing Tools -->
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/python-svgrepo-com.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/tableau-svgrepo-com.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/Power_BI_(4).png" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/looker-studio-logo-brandlogos.net_z01lyr28m.svg" alt="lookerstudio" width="40" height="40"/></a>
-  <a href="https://www.snowflake.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/glue/" target="_blank"><img src="https://logo.svgcdn.com/logos/aws-glue.svg" alt="aws_glue" width="40" height="40"/></a>
-  <a href="https://www.databricks.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/></a>
-  <a href="https://flink.apache.org/" target="_blank"><img src="https://flink.apache.org/img/logo/svg/color_black.svg" alt="apache_flink" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com/" target="_blank"><img src="https://logo.svgcdn.com/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://greatexpectations.io/" target="_blank"><img src="https://images.ctfassets.net/ycwst8v1r2x5/1E8joF6yPfJwQr0XeEgAjx/37de76b6aa3e67affa9e23a4c815b54a/GE-Preview.png" alt="great_expectations" width="40" height="40"/></a>
-  <a href="https://datahubproject.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/datahub/datahub-icon.svg" alt="datahub" width="40" height="40"/></a>
-  <a href="https://openlineage.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/73205353?s=200&v=4" alt="openlineage" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
-  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank">
-  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"><img src="https://www.svgrepo.com/show/374159/vba.svg" alt="vba" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Palantir%20Foundry%20%26%20AIP%20Builder-bd9cff?style=for-the-badge&labelColor=efe6ff" />
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-bd9cff?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=efe6ff" />
+  <img src="https://img.shields.io/badge/Databricks%20Fundamentals-bd9cff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=efe6ff" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-bd9cff?style=for-the-badge&logo=google&logoColor=white&labelColor=efe6ff" />
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-bd9cff?style=for-the-badge&logo=google&logoColor=white&labelColor=efe6ff" />
+  <img src="https://img.shields.io/badge/SQL%20Essential%20Training-bd9cff?style=for-the-badge&labelColor=efe6ff" />
+  <img src="https://img.shields.io/badge/Tata%20Data%20Visualization%20(Forage)-bd9cff?style=for-the-badge&labelColor=efe6ff" />
 </p>
-
-</p>
-
 
 ---
 
@@ -139,15 +312,7 @@
 
 <div align="center">
 
-
 ### Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sarathsai4&theme=radical)
 
-
-
-
-
-
-
-
-
+</div>
