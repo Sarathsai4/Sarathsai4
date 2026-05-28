@@ -81,7 +81,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150" alt="3D coding" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216655849-be3f6166-7c25-49cc-bb15-128bc56e1f0b.gif" width="150" alt="3D analytics" />
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f51-4a18-baad-6f8d639d0c80.gif" width="150" alt="3D analytics" />
 </p>
 
 <!-- 🌠 Neon violet animated divider -->
@@ -214,13 +214,13 @@
 <!-- 📊 BI & Visualization (using reliable CDN logos) -->
 <h4 align="center">📊 BI & Visualization</h4>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="46"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="56" height="56"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="46" height="46"/>
   &nbsp;&nbsp;
-  <img src="https://www.gstatic.com/analytics-lookerstudio/images/lookerstudio_logo_48.png" alt="lookerstudio" width="46" height="46"/>
+  <img src="https://www.vectorlogo.zone/logos/lookerstudio/lookerstudio-icon.svg" alt="lookerstudio" width="46" height="46"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="46" height="46"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="46" height="46"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-bd9cff?style=for-the-badge&logo=tableau&logoColor=white&labelColor=2D1B69" />
