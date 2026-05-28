@@ -81,7 +81,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150" alt="3D coding" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f51-4a18-baad-6f8d639d0c80.gif" width="150" alt="3D analytics" />
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="150" alt="3D analytics" />
 </p>
 
 <!-- 🌠 Neon violet animated divider -->
@@ -218,7 +218,7 @@
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="46" height="46"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/lookerstudio/lookerstudio-icon.svg" alt="lookerstudio" width="46" height="46"/>
+  <img src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/main/Images/looker-studio-logo-brandlogos.net_z01lyr28m.svg" alt="lookerstudio" width="46" height="46"/>
   &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="46" height="46"/>
 </p>
