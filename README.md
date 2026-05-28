@@ -21,7 +21,7 @@
 </h3>
 
 <!-- Right-Aligned Animation -->
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/main/Images/Business%20Analysis.gif">
+<img align="right" alt="Data Analytics" width="300" src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/main/Images/Business%20Analysis.gif" hspace="20" vspace="10">
 
 <!-- Profile Views -->
 <p align="left">
@@ -90,8 +90,28 @@
 <!-- 🚀 ANIMATED TECH STACK STRIP (rendered as a continuously-changing SVG with rotating logos via github-readme-tech-stack — this version DOES animate the badges as a colorful card) -->
 <p align="center">
   <a href="https://github.com/Sarathsai4">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9A%80+Live+Tech+Stack&align=center&titleAlign=center&fontFamily=Fira+Code&lineCount=4&theme=transparent&line1=python%2Cpython%2C7c3aed%3Bmysql%2CSQL%2Cbd9cff%3Bapacheairflow%2CAirflow%2C7c3aed%3Bgooglecloud%2CGCP%2Cbd9cff%3Bgooglebigquery%2CBigQuery%2C7c3aed%3Bamazonaws%2CAWS%2Cbd9cff&line2=snowflake%2CSnowflake%2C7c3aed%3Bdatabricks%2CDatabricks%2Cbd9cff%3Bapachekafka%2CKafka%2C7c3aed%3Bapachespark%2CSpark%2Cbd9cff%3Bdbt%2Cdbt%2C7c3aed%3Bpandas%2CPandas%2Cbd9cff&line3=numpy%2CNumPy%2C7c3aed%3Bscikitlearn%2Cscikit-learn%2Cbd9cff%3Bpytorch%2CPyTorch%2C7c3aed%3Btensorflow%2CTensorFlow%2Cbd9cff%3Bhuggingface%2CHuggingFace%2C7c3aed%3Blangchain%2CLangChain%2Cbd9cff&line4=openai%2COpenAI%2C7c3aed%3Bpostgresql%2Cpgvector%2Cbd9cff%3Btableau%2CTableau%2C7c3aed%3Bpowerbi%2CPower+BI%2Cbd9cff%3Blooker%2CLooker%2C7c3aed%3Bdocker%2CDocker%2Cbd9cff" alt="Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9A%80+Live+Tech+Stack&align=center&titleAlign=center&fontFamily=Fira+Code&lineCount=5&theme=transparent&line1=python%2Cpython%2C7c3aed%3Bmysql%2CSQL%2Cbd9cff%3Bapacheairflow%2CAirflow%2C7c3aed%3Bgooglecloud%2CGCP%2Cbd9cff%3Bgooglebigquery%2CBigQuery%2C7c3aed&line2=amazonaws%2CAWS%2Cbd9cff%3Bsnowflake%2CSnowflake%2C7c3aed%3Bdatabricks%2CDatabricks%2Cbd9cff%3Bapachekafka%2CKafka%2C7c3aed%3Bapachespark%2CSpark%2Cbd9cff&line3=dbt%2Cdbt%2C7c3aed%3Bpandas%2CPandas%2Cbd9cff%3Bnumpy%2CNumPy%2C7c3aed%3Bscikitlearn%2Cscikit-learn%2Cbd9cff%3Bpytorch%2CPyTorch%2C7c3aed&line4=tensorflow%2CTensorFlow%2Cbd9cff%3Bhuggingface%2CHugging+Face%2C7c3aed%3Blangchain%2CLangChain%2Cbd9cff%3Bopenai%2COpenAI%2C7c3aed%3Bpostgresql%2Cpgvector%2Cbd9cff&line5=tableau%2CTableau%2C7c3aed%3Bpowerbi%2CPower+BI%2Cbd9cff%3Blooker%2CLooker%2C7c3aed%3Bdocker%2CDocker%2Cbd9cff%3Bgit%2CGit%2C7c3aed" alt="Live Tech Stack" width="800" />
   </a>
+</p>
+
+<!-- 🎞️ Animated motion strip (gives the section a moving / cinematic feel) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated rainbow line" />
+</p>
+
+<!-- 🛰️ Skillicons row 1 (Data Engineering core) -->
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,bigquery,gcp,aws,azure&perline=8" alt="Data Engineering core" /></a>
+</p>
+
+<!-- 🛰️ Skillicons row 2 (Big Data + ML + AI) -->
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,redis,linux,git,github,vscode&perline=8" alt="Big Data, DevOps and AI tooling" /></a>
+</p>
+
+<!-- 🎞️ Animated motion strip (closing) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Animated rainbow line" />
 </p>
 
 <!-- 💻 Languages -->
