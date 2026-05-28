@@ -59,7 +59,6 @@
 
 <!-- ================================================================= -->
 <!-- 🎬 LANGUAGES & TOOLS — CINEMATIC 3D ANIMATED SECTION              -->
-<!-- All movement, 3D and cinematic visuals live ONLY in this section. -->
 <!-- ================================================================= -->
 
 <!-- 🎞️ Cinematic neon wave header GIF -->
@@ -74,15 +73,15 @@
   </a>
 </p>
 
-<!-- 🌌 3D animated cinematic centerpiece -->
+<!-- 🌌 3D animated cinematic centerpiece (all confirmed working GIFs from MikeCodesDotNET / abdellatifEL / Tarikul-Islam-Anik) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120" alt="3D dev cube" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150" alt="3D data flow" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="160" alt="3D data flow" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" alt="3D neon coder" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="160" alt="3D neon coder" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150" alt="3D coding" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216122003-49247491-cb7b-44a3-a40c-3ed75a86e8ce.png" width="120" alt="3D rocket" />
+  <img src="https://user-images.githubusercontent.com/74038190/216655849-be3f6166-7c25-49cc-bb15-128bc56e1f0b.gif" width="150" alt="3D analytics" />
 </p>
 
 <!-- 🌠 Neon violet animated divider -->
@@ -90,17 +89,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon violet divider" />
 </p>
 
-<!-- 🚀 MOVING TECH STACK CAROUSEL -->
+<!-- 🚀 ANIMATED TECH STACK STRIP (rendered as a continuously-changing SVG with rotating logos via github-readme-tech-stack — this version DOES animate the badges as a colorful card) -->
 <p align="center">
   <a href="https://github.com/Sarathsai4">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9A%80+Moving+Tech+Stack&align=center&titleAlign=center&fontFamily=Fira+Code&lineCount=3&theme=violet&line1=python%2Cpython%2C7c3aed%3Bmysql%2CSQL%2Cbd9cff%3Bapacheairflow%2CAirflow%2C7c3aed%3Bgooglecloud%2CGCP%2Cbd9cff%3Bgooglebigquery%2CBigQuery%2C7c3aed%3Bamazonaws%2CAWS%2Cbd9cff%3Bsnowflake%2CSnowflake%2C7c3aed%3Bdatabricks%2CDatabricks%2Cbd9cff&line2=apachekafka%2CKafka%2C7c3aed%3Bapachespark%2CSpark%2Cbd9cff%3Bdbt%2Cdbt%2C7c3aed%3Bpandas%2CPandas%2Cbd9cff%3Bnumpy%2CNumPy%2C7c3aed%3Bscikitlearn%2Cscikit-learn%2Cbd9cff%3Bpytorch%2CPyTorch%2C7c3aed%3Btensorflow%2CTensorFlow%2Cbd9cff&line3=huggingface%2CHuggingFace%2C7c3aed%3Blangchain%2CLangChain%2Cbd9cff%3Bopenai%2COpenAI%2C7c3aed%3Bpostgresql%2Cpgvector%2Cbd9cff%3Btableau%2CTableau%2C7c3aed%3Bpowerbi%2CPower+BI%2Cbd9cff%3Blooker%2CLooker%2C7c3aed%3Bdocker%2CDocker%2Cbd9cff" alt="moving tech stack carousel" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9A%80+Live+Tech+Stack&align=center&titleAlign=center&fontFamily=Fira+Code&lineCount=4&theme=transparent&line1=python%2Cpython%2C7c3aed%3Bmysql%2CSQL%2Cbd9cff%3Bapacheairflow%2CAirflow%2C7c3aed%3Bgooglecloud%2CGCP%2Cbd9cff%3Bgooglebigquery%2CBigQuery%2C7c3aed%3Bamazonaws%2CAWS%2Cbd9cff&line2=snowflake%2CSnowflake%2C7c3aed%3Bdatabricks%2CDatabricks%2Cbd9cff%3Bapachekafka%2CKafka%2C7c3aed%3Bapachespark%2CSpark%2Cbd9cff%3Bdbt%2Cdbt%2C7c3aed%3Bpandas%2CPandas%2Cbd9cff&line3=numpy%2CNumPy%2C7c3aed%3Bscikitlearn%2Cscikit-learn%2Cbd9cff%3Bpytorch%2CPyTorch%2C7c3aed%3Btensorflow%2CTensorFlow%2Cbd9cff%3Bhuggingface%2CHuggingFace%2C7c3aed%3Blangchain%2CLangChain%2Cbd9cff&line4=openai%2COpenAI%2C7c3aed%3Bpostgresql%2Cpgvector%2Cbd9cff%3Btableau%2CTableau%2C7c3aed%3Bpowerbi%2CPower+BI%2Cbd9cff%3Blooker%2CLooker%2C7c3aed%3Bdocker%2CDocker%2Cbd9cff" alt="Tech Stack" />
   </a>
 </p>
 
 <!-- 💻 Languages -->
 <h4 align="center">💻 Languages & Querying</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,typescript,nodejs,bash,scala&perline=10&theme=dark" alt="languages" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,typescript,nodejs,bash,scala&perline=10&theme=dark" alt="languages" /></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Advanced-bd9cff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D1B69" />
@@ -111,7 +110,7 @@
 <!-- ☁️ Cloud & Data Warehousing -->
 <h4 align="center">☁️ Cloud & Data Warehousing</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure&perline=10&theme=dark" alt="cloud" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp,aws,azure&perline=10&theme=dark" alt="cloud" /></a>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="46" height="46"/>
   &nbsp;
@@ -156,11 +155,9 @@
 <!-- 🤖 AI / LLM Engineering -->
 <h4 align="center">🤖 AI / LLM Engineering · RAG · Vector DBs</h4>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80" alt="ai 3d" />
-  &nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="46" height="46"/>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi&perline=10&theme=dark" alt="ai" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi&perline=10&theme=dark" alt="ai" /></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-bd9cff?style=for-the-badge&logo=langchain&logoColor=white&labelColor=2D1B69" />
@@ -214,14 +211,16 @@
   <img src="https://img.shields.io/badge/Predictive%20%26%20Diagnostic%20Analytics-bd9cff?style=for-the-badge&labelColor=2D1B69" />
 </p>
 
-<!-- 📊 BI & Visualization -->
+<!-- 📊 BI & Visualization (using reliable CDN logos) -->
 <h4 align="center">📊 BI & Visualization</h4>
 <p align="center">
-  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/tableau-svgrepo-com.svg" alt="tableau" width="46" height="46"/>
-  &nbsp;
-  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/Power_BI_(4).png" alt="powerbi" width="46" height="46"/>
-  &nbsp;
-  <img src="https://github.com/Sarathsai4/Sarathsai4/blob/main/Images/looker-studio-logo-brandlogos.net_z01lyr28m.svg" alt="lookerstudio" width="46" height="46"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="46"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="46" height="46"/>
+  &nbsp;&nbsp;
+  <img src="https://www.gstatic.com/analytics-lookerstudio/images/lookerstudio_logo_48.png" alt="lookerstudio" width="46" height="46"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="46" height="46"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-bd9cff?style=for-the-badge&logo=tableau&logoColor=white&labelColor=2D1B69" />
@@ -234,13 +233,13 @@
 <!-- 🗄️ Databases -->
 <h4 align="center">🗄️ Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10&theme=dark" alt="db" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10&theme=dark" alt="db" /></a>
 </p>
 
 <!-- 🛠️ DevOps & Tooling -->
 <h4 align="center">🛠️ DevOps & Tooling</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,linux,selenium,graphql,spring&perline=10&theme=dark" alt="devops" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions,linux,selenium,graphql,spring&perline=10&theme=dark" alt="devops" /></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/CI%2FCD-bd9cff?style=for-the-badge&labelColor=2D1B69" />
@@ -249,10 +248,10 @@
   <img src="https://img.shields.io/badge/Playwright%20%7C%20Selenium-bd9cff?style=for-the-badge&logo=playwright&logoColor=white&labelColor=2D1B69" />
 </p>
 
-<!-- 🧯 Data Quality -->
+<!-- 🧯 Data Quality (using more reliable Great Expectations logo) -->
 <h4 align="center">🧯 Data Quality · Governance · Observability</h4>
 <p align="center">
-  <img src="https://images.ctfassets.net/ycwst8v1r2x5/1E8joF6yPfJwQr0XeEgAjx/37de76b6aa3e67affa9e23a4c815b54a/GE-Preview.png" alt="great_expectations" width="46" height="46"/>
+  <img src="https://avatars.githubusercontent.com/u/31670619?s=200&v=4" alt="great_expectations" width="46" height="46"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/datahub/datahub-icon.svg" alt="datahub" width="46" height="46"/>
   &nbsp;
@@ -271,12 +270,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="neon violet divider" />
 </p>
 
-<!-- 🐍 Snake contribution animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sarathsai4/Sarathsai4/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<!-- 🌊 Cinematic wave footer -->
+<!-- 🌊 Cinematic wave footer (capsule-render twinkling violet) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" alt="cinematic wave footer" />
 </p>
