@@ -81,7 +81,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150" alt="3D coding" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="150" alt="3D analytics" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="3D analytics" />
 </p>
 
 <!-- 🌠 Neon violet animated divider -->
