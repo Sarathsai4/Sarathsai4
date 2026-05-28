@@ -73,15 +73,13 @@
   </a>
 </p>
 
-<!-- 🌌 3D animated cinematic centerpiece (all confirmed working GIFs from MikeCodesDotNET / abdellatifEL / Tarikul-Islam-Anik) -->
+<!-- 🌌 3D animated cinematic centerpiece -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150" alt="3D data flow" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="150" alt="3D neon coder" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150" alt="3D coding" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="150" alt="3D analytics" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180" alt="3D data flow" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="180" alt="3D neon coder" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-13d4cfee-1b16-4b06-bda6-9aef2b2867e7.gif" width="180" alt="3D coding" />
 </p>
 
 <!-- 🌠 Neon violet animated divider -->
